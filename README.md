@@ -1,6 +1,6 @@
 # Ignite Feed
 
-### Tecnologias utilizadas:
+### Important Skills:
 <ul>
   <li>React</li>
   <li>Css modules</li>
